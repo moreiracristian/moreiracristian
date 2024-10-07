@@ -30,7 +30,8 @@ Soy estudiante de la carrera de Ingenieria en Sistemas en la UTN. Me especialic�
 
 Aquí te dejo algunos de mis proyectos favoritos, donde podrás ver mis habilidades aplicadas en acción:
 
-1. **[ARCOPE](https://github.com/David-I-X/ETL-P)** 
+1. **[ARCOPE](https://github.com/David-I-X/ETL-P)**
+   - Deploy: https://appdatahenry-87lszgg2bsmmvdzwb9mxwq.streamlit.app/~/+/?page=inicio
    - Proyecto: Data Product orientado a la sostenibilidad y rentabilidad para Uber en la ciudad de New York..
    - **Tecnologías usadas**: Python, Pandas, Numpy, MySQL, Scikit-learn, Streamlit
 
