@@ -42,8 +42,8 @@ Aquí te dejo algunos de mis proyectos favoritos, donde podrás ver mis habilida
    - Modelado de datos para un sistema de recomendacion de peliculas.
    - **Tecnologías usadas**: Python, Pandas, Numpy, Seaborn, Matplotlib, Sklearn, FastAPI
      
-4. **[Elitian](https://github.com/moreiracristian/ElitianWeb)** 
-   - Elitian es un proyecto web de tienda online para la venta de productos naturales con distintas marcas que fabrican los productos.
+4. **[Elitian](https://github.com/ElianaInes/Elitian)** 
+   - Elitian es un proyecto de tienda online para venta de productos naturales y ecológicos sobre el cuidado personal y la belleza: Con la idea de ofrecer distintos emprendedores que los fabrican. Fomentar el cuidado de nuestro planeta y el consumo diario de una manera ecoconsciente integrando un blog tematico para dicha misión.
    - **Tecnologías usadas**: Python, HTML, CSS, JavaScript
 
 ---
@@ -57,7 +57,3 @@ Aquí te dejo algunos de mis proyectos favoritos, donde podrás ver mis habilida
 - Email: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:moreiracristianmiguel@gmail.com)
 
 ---
-
-## 📊 GitHub Stats
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
