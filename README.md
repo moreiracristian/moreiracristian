@@ -4,7 +4,7 @@
 
 ### Un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Me encanta transformar datos en insights útiles para tomar decisiones informadas y mejorar procesos.
 
-Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me especialicé en la carrera de Data Science desde que descubrí el mundo del análisis de los datos y todo lo que ello implica. Mi escencia personal radica justamente en el análisis y la comunicación por lo que las herramientas tecnológicas son instrumentos para desenvolverme en este mundo. Mi objetivo es contribuir a las empresas para la toma de decisiones informadas mediante el uso de esas herramientas analíticas a disposición. 🌍
+Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me especialicé en la carrera de Data Science desde que descubrí el mundo del análisis de los datos y todo lo que ello implica. Mi escencia personal radica justamente en el análisis y la comunicación por lo que las herramientas tecnológicas son instrumentos para desenvolverme en este mundo. Mi objetivo personal es contribuir a las empresas para la toma de decisiones informadas mediante el uso de esas herramientas analíticas a disposición. 🌍
 
 ---
 
@@ -13,8 +13,8 @@ Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la 
 - 🎓 **Educación**: Data Science en Henry.
 - 💼 **Experiencia**: Actualmente trabajando en un proyecto e-commerce llamado Elitian que integre ciencia de datos.
 - 💡 **Áreas de interés**: Automatización, SQL, Machine Learning, Big Data, Marketing, Cine.
-- 🌱 Aprendizaje continuo: Actualmente profundizando en el análisis predictivo y el desarrollo de sistemas recomendadores, y explorando nuevas tecnologías como los Modelos de Lenguaje Grande (LLMs).
-- 🎯 Objetivo profesional: Busco contribuir a proyectos que integren ciencia de datos y sostenibilidad, creando soluciones innovadoras para optimizar el rendimiento empresarial.
+- 🌱 Aprendizaje continuo: Profundizando en el análisis predictivo y el desarrollo de sistemas de recomendaciones, y explorando nuevas tecnologías como los Modelos de Lenguaje Grande (LLMs).
+- 🎯 Objetivo profesional: Busco contribuir a proyectos que integren ciencia de datos y sostenibilidad, creando soluciones innovadoras para optimizar rendimientos.
 
 ---
 
