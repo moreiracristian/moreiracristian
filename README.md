@@ -76,8 +76,8 @@ Aquí dejo algunos de mis proyectos favoritos, donde podrás ver mis habilidades
 
 1. **[ARCOPE](https://github.com/David-I-X/ETL-P)**
    - Este proyecto analizó el impacto de variables medioambientales en la operación de Uber en Nueva York, identificando áreas donde la adopción de vehículos eléctricos podría reducir los costos operativos en un 40%.
+   - **Proyecto**: Data Product orientado a la sostenibilidad y rentabilidad para Uber en la ciudad de New York.
    - **Deploy**: https://appdatahenry-87lszgg2bsmmvdzwb9mxwq.streamlit.app/~/+/?page=inicio
-   - **Proyecto**: Data Product orientado a la sostenibilidad y rentabilidad para Uber en la ciudad de New York..
    - **Tecnologías usadas**: Python, Pandas, Numpy, MySQL, Scikit-learn, Streamlit
 
 4. **[Proyecto de Análisis de Datos 'PIDA'](https://github.com/moreiracristian/Henry-PIDA-CM)** 
@@ -103,9 +103,6 @@ Aquí dejo algunos de mis proyectos favoritos, donde podrás ver mis habilidades
 
 ## 🌍 ¿Conectamos?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/moreiracristian/) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/moreiracristian) | [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:moreiracristianmiguel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/moreiracristian/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/moreiracristian)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:moreiracristianmiguel@gmail.com)
 
----
-
-![Commits Badge](https://img.shields.io/github/commit-activity/m/moreiracristian/repository-name?label=Commits&style=for-the-badge)
 
