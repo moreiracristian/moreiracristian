@@ -8,7 +8,7 @@ Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la 
 
 ---
 
-## 🚀 Sobre mi
+## 🚀 Sobre mí
 
 - 🎓 **Educación**: Data Science en Henry.
 - 💼 **Experiencia**: Actualmente trabajando en un proyecto e-commerce llamado Elitian que integre ciencia de datos.
@@ -94,14 +94,14 @@ Aquí dejo algunos de mis proyectos favoritos, donde podrás ver mis habilidades
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Mis estadísticas en GitHub
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreiracristian&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moreiracristian&layout=compact&theme=radical)
 
 ---
 
-## 🌍 ¿Conectamos?
+## 🌍 Aquí estoy
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/moreiracristian/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/moreiracristian)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:moreiracristianmiguel@gmail.com)
 
