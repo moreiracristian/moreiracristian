@@ -1,15 +1,15 @@
 # 👋 ¡Hola, me llamo Cristian! 
 
-### 📊 Data Science | 👨‍💻 Data Analyst | Data Engineer | Python | Power BI | SQL | ETL | 🤖 Machine Learning
+### 📊 Data Science | 📈 Data Analyst | 👨‍💻 Data Engineer | Python | Power BI | SQL | ETL | 🤖 Machine Learning
 
-Soy estudiante de la carrera de Ingenieria en Sistemas en la UTN. Me especialicé en la carrera de Data Science desde que descubrí el mundo del análisis de los datos y todo lo que ello implica. Mi escencia personal radica justamente en el análisis y la comunicación por lo que las herramientas tecnológicas son un intrumento para desenvolverme en este mundo. Mi objetivo es ayudar a las empresas a tomar decisiones informadas mediante el uso de herramientas analíticas avanzadas. 🌍
+Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me especialicé en la carrera de Data Science desde que descubrí el mundo del análisis de los datos y todo lo que ello implica. Mi escencia personal radica justamente en el análisis y la comunicación por lo que las herramientas tecnológicas son instrumentos para desenvolverme en este mundo. Mi objetivo es contribuir a las empresas para la toma de decisiones informadas mediante el uso de esas herramientas analíticas a disposición. 🌍
 
 ---
 
 ## 🚀 Acerca de mí
 
-- 🎓 **Educación**: [Data Science en Henry] 
-- 💼 **Experiencia**: Actualmente trabajando en [Cetrogar]
+- 🎓 **Educación**: Data Science en Henry
+- 💼 **Experiencia**: Actualmente trabajando en Cetrogar
 - 💡 **Áreas de interés**: SQL, Machine Learning, Big Data, Marketing, Cine.
 - 🌱 **Siempre aprendiendo**: Actualmente aprendiendo y mejorando mis habilidades en ["Modelos de lenguaje grande (LLMs)" o "Analisis predictivo"]
 - 🎯 **Buscando oportunidades**: Siempre abierto a nuevos desafíos y colaboraciones en proyectos de Data Science.
@@ -70,7 +70,7 @@ Soy estudiante de la carrera de Ingenieria en Sistemas en la UTN. Me especialic�
 
 ## 📈 Mis proyectos destacados
 
-Aquí te dejo algunos de mis proyectos favoritos, donde podrás ver mis habilidades aplicadas en acción:
+Aquí dejo algunos de mis proyectos favoritos, donde podrás ver mis habilidades aplicadas:
 
 1. **[ARCOPE](https://github.com/David-I-X/ETL-P)**
    - **Deploy**: https://appdatahenry-87lszgg2bsmmvdzwb9mxwq.streamlit.app/~/+/?page=inicio
@@ -91,9 +91,7 @@ Aquí te dejo algunos de mis proyectos favoritos, donde podrás ver mis habilida
 
 ---
 
-## 🌍 Conéctate conmigo
-
-¡No dudes en conectarte conmigo a través de las siguientes plataformas!
+## 🌍 ¿Conectamos?
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/moreiracristian/)
 - GitHub: [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/moreiracristian)
