@@ -1,6 +1,4 @@
-# 👋 ¡Hola, me llamo Cristian! un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Me encanta transformar datos en insights útiles para tomar decisiones informadas y mejorar procesos.
-
-### 📊 Data Science | 📈 Data Analyst | 👨‍💻 Data Engineer | Python | Power BI | SQL | ETL | 🤖 Machine Learning
+## 👋 ¡Hola, me llamo Cristian! Un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Me encanta transformar datos en insights útiles para tomar decisiones informadas y mejorar procesos.
 
 Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me especialicé en la carrera de Data Science desde que descubrí el mundo del análisis de los datos y todo lo que ello implica. Mi escencia personal radica justamente en el análisis y la comunicación por lo que las herramientas tecnológicas son instrumentos para desenvolverme en este mundo. Mi objetivo es contribuir a las empresas para la toma de decisiones informadas mediante el uso de esas herramientas analíticas a disposición. 🌍
 
