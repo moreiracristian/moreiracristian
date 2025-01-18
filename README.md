@@ -80,7 +80,7 @@ Aquí dejo algunos de mis proyectos favoritos, donde podrás ver mis habilidades
    - **Deploy**: https://appdatahenry-87lszgg2bsmmvdzwb9mxwq.streamlit.app/~/+/?page=inicio
    - **Tecnologías usadas**: Python, Pandas, Numpy, MySQL, Scikit-learn, Streamlit
 
-4. **[Proyecto de Análisis de Datos 'PIDA'](https://github.com/moreiracristian/Henry-PIDA-CM)** 
+2. **[Proyecto de Análisis de Datos 'PIDA'](https://github.com/moreiracristian/Henry-PIDA-CM)** 
    - Este proyecto intenta proporcionar una visión integral del acceso a internet en diferentes localidades y ayuda a identificar áreas críticas que requieren atención para mejorar la infraestructura y asegurar un acceso equitativo a todas las tecnologías de internet.
    - **Tecnologías usadas**: Python, Numpy, Scikit-learn, Pandas, PowerBI.
     
@@ -92,6 +92,9 @@ Aquí dejo algunos de mis proyectos favoritos, donde podrás ver mis habilidades
    - Elitian es un proyecto de tienda online para venta de productos naturales y ecológicos sobre el cuidado personal y la belleza: Con la idea de ofrecer distintos emprendedores que los fabrican. Fomentar el cuidado de nuestro planeta y el consumo diario de una manera ecoconsciente integrando un blog tematico para dicha misión.
    - **Tecnologías usadas**: Python, HTML, CSS, JavaScript
 
+5. **[IMDB analisis de sentimientos](https://github.com/moreiracristian/imdb_proyect)**
+   - Este proyecto busca clasificar reseñas de películas según su contenido, prediciendo sentimientos con técnicas avanzadas de vectorización y modelos de aprendizaje supervisado, trabajando con datasets balanceados y desbalanceados.
+   - **Tecnologias usadas:** Python, Pandas, Scikit-learn, imblearn
 ---
 
 ## 📊 Mis estadísticas en GitHub
