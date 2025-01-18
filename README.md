@@ -2,19 +2,19 @@
 
 ## 👋 ¡Hola!, me llamo Cristian.
 
-### Un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Me encanta transformar datos en insights útiles para tomar decisiones informadas y mejorar procesos.
+### Un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Pasar de vagas opiniones a decisiones fundamentadas, desde uno cuantos datos a información útil en insights medibles y mejorar procesos son mi fuerte.
 
-Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me especialicé en la carrera de Data Science desde que descubrí el mundo del análisis de los datos y todo lo que ello implica. Mi escencia personal radica justamente en el análisis y la comunicación por lo que las herramientas tecnológicas son instrumentos para desenvolverme en este mundo. Mi objetivo personal es contribuir a las empresas para la toma de decisiones informadas mediante el uso de esas herramientas analíticas a disposición. 🌍
+Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me gradué en Data Science desde que descubrí el mundo del análisis de los datos y todo lo que ello implica. Mi escencia personal radica en el análisis y la comunicación por lo que las herramientas tecnológicas son instrumentos para desenvolverme en esta área. Mi objetivo personal es contribuir a las empresas para la toma de decisiones fundadas mediante el uso de las herramientas disponibles para el analisis. 🌍
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎓 **Educación**: Data Science en Henry.
-- 💼 **Experiencia**: Actualmente trabajando en un proyecto e-commerce llamado Elitian que integre ciencia de datos.
-- 💡 **Áreas de interés**: Automatización, SQL, Machine Learning, Big Data, Marketing, Cine.
+- 🎓 **Graduación**: Data Science en Henry.
+- 💼 **Experiencia**: Actualmente trabajando en varios proyectos personales para e-commerce llamado Elitian con integracion en ciencia de datos.
+- 💡 **Áreas de interés**: Automatización, SQL, Machine Learning, Big Data, Marketing, Cine, Ecología.
 - 🌱 Aprendizaje continuo: Profundizando en el análisis predictivo y el desarrollo de sistemas de recomendaciones, y explorando nuevas tecnologías como los Modelos de Lenguaje Grande (LLMs).
-- 🎯 Objetivo profesional: Busco contribuir a proyectos que integren ciencia de datos y sostenibilidad, creando soluciones innovadoras para optimizar rendimientos.
+- 🎯 Objetivo profesional: Contribuir a proyectos que integren ciencia de datos y sostenibilidad, creando soluciones innovadoras para optimizar rendimientos.
 
 ---
 
@@ -107,5 +107,3 @@ Aquí dejo algunos de mis proyectos favoritos, donde podrás ver mis habilidades
 ## 🌍 Aquí estoy
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/moreiracristian/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/moreiracristian)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:moreiracristianmiguel@gmail.com)
-
-
