@@ -2,7 +2,7 @@
 
 ## 👋 ¡Hola!, me llamo Cristian.
 
-### Un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Pasar de vagas opiniones a decisiones fundamentadas, desde uno cuantos datos a información útil en insights medibles y mejorar procesos son mi fuerte.
+### Un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Pasar de vagas opiniones a decisiones fundamentadas, desde unos cuantos datos a información útil en insights medibles y mejorar procesos son mi fuerte.
 
 Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me gradué en Data Science desde que descubrí el mundo del análisis de los datos y todo lo que ello implica. Mi escencia personal radica en el análisis y la comunicación por lo que las herramientas tecnológicas son instrumentos para desenvolverme en esta área. Mi objetivo personal es contribuir a las empresas para la toma de decisiones fundadas mediante el uso de las herramientas disponibles para el analisis. 🌍
 
