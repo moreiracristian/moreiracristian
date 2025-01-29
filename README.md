@@ -6,7 +6,7 @@
 
 Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me gradué en Data Science desde que descubrí el mundo del análisis de los datos y todo lo que esto implica. Estoy cursando la diplomatura en Business Intelligence de la UTN e-Learning. 
 
-Mi escencia radica en el análisis y la comunicación, por lo que utilizo las herramientas tecnológicas como instrumentos para desenvolverme en este mundo. Mi objetivo personal implica en contribuir a la toma de decisiones fundadas, mediante las herramientas disponibles en el contexto para el analisis. 🌍
+Mi escencia radica en el análisis y la comunicación, por lo que utilizo las herramientas tecnológicas como instrumentos para desenvolverme en este mundo. Mi objetivo personal implica contribuir en la toma de decisiones fundadas, mediante las herramientas disponibles en el contexto para el analisis. 🌍
 
 ---
 
