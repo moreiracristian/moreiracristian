@@ -2,16 +2,16 @@
 
 ## 👋 ¡Hola!, me llamo Cristian.
 
-### Un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Pasar de vagas opiniones a decisiones fundamentadas, desde unos cuantos datos a información útil en insights medibles y mejorar procesos son mi fuerte.
+### Un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Pasar de vagas opiniones a decisiones fundamentadas, desde unos cuantos datos a información útil en insights medibles y mejorar procesos es mi meta diaria.
 
-Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me gradué en Data Science desde que descubrí el mundo del análisis de los datos y todo lo que ello implica. Mi escencia personal radica en el análisis y la comunicación por lo que las herramientas tecnológicas son instrumentos para desenvolverme en esta área. Mi objetivo personal es contribuir a las empresas para la toma de decisiones fundadas mediante el uso de las herramientas disponibles para el analisis. 🌍
+Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me gradué en Data Science desde que descubrí el mundo del análisis de los datos y todo lo que esto implica. Estoy cursando la diplomatura en Business Intelligence de la UTN e-Learning. Mi escencia radica en el análisis y la comunicación, por lo que utilizo las herramientas tecnológicas como instrumentos para desenvolverme en este mundo. Mi objetivo personal radica en contribuir a la toma de decisiones fundadas, mediante las herramientas disponibles en el contexto para el analisis. 🌍
 
 ---
 
 ## 🚀 Sobre mí
 
 - 🎓 **Graduación**: Data Science en Henry.
-- 💼 **Experiencia**: Actualmente trabajando en varios proyectos personales para e-commerce llamado Elitian con integracion en ciencia de datos.
+- 💼 **Experiencia**: Actualmente trabajando en un proyecto conjunto de e-commerce llamado Elitian con integración en análisis predictivo de ventas, sistenas de recomendación de productos y clusterización de clientes.
 - 💡 **Áreas de interés**: Automatización, SQL, Machine Learning, Big Data, Marketing, Cine, Ecología.
 - 🌱 Aprendizaje continuo: Profundizando en el análisis predictivo y el desarrollo de sistemas de recomendaciones, y explorando nuevas tecnologías como los Modelos de Lenguaje Grande (LLMs).
 - 🎯 Objetivo profesional: Contribuir a proyectos que integren ciencia de datos y sostenibilidad, creando soluciones innovadoras para optimizar rendimientos.
