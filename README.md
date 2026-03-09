@@ -4,7 +4,7 @@
 
 ### Un apasionado del análisis de datos y el uso de la tecnología para generar valor a través de la ciencia de datos. Pasar de vagas opiniones a decisiones fundamentadas, desde unos cuantos datos a información útil en insights medibles y mejorar procesos es mi meta diaria.
 
-Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me gradué en Data Science desde que descubrí el mundo del análisis de los datos y todo lo que esto implica. Estoy cursando la diplomatura en Business Intelligence de la UTN e-Learning. 
+Soy estudiante de la carrera de Ingenieria en Sistemas de la Información en la UTN. Me gradué en Data Science desde que descubrí el mundo del análisis de los datos y todo lo que esto implica. Realicé una diplomatura en Business Intelligence de la UTN e-Learning. 
 
 Mi escencia radica en el análisis y la comunicación, por lo que utilizo las herramientas tecnológicas como instrumentos para desenvolverme en este mundo. Mi objetivo personal implica contribuir en la toma de decisiones fundadas, mediante las herramientas disponibles en el contexto para el analisis. 🌍
 
