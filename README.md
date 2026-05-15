@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C2C2C,FF8C00&height=200&section=header&text=Cristian%20Moreira&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20Ingeniero%20en%20Sistemas%20UTN&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00,4A4A4A,1E90FF&height=200&section=header&text=Cristian%20Moreira&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Analista%20de%20Datos%20%7C%20Data%20Scientist%20%7C%20Data%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Analista+de+Datos;Data+Scientist;Data+Engineer;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Excel+Avanzado)](https://git.io/typing-svg)
 
@@ -156,5 +156,5 @@ Desarrollé un sitio e-commerce de productos naturales y ecológicos con blog te
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00,2C2C2C&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF,4A4A4A,FF8C00&height=120&section=footer" width="100%"/>
 <!--  -->
