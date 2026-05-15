@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cristian%20Moreira&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20Ingeniero%20en%20Sistemas%20UTN&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C2C2C,FF8C00&height=200&section=header&text=Cristian%20Moreira&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20Ingeniero%20en%20Sistemas%20UTN&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Convirtiendo+datos+en+decisiones;Machine+Learning+%7C+Big+Data+%7C+BI;Apasionado+por+datos+y+sostenibilidad+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Analista+de+Datos;Data+Scientist;Data+Engineer;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Excel+Avanzado)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,12 +12,12 @@
 
 Estudiante de **Ingeniería en Sistemas de la Información** en la UTN, graduado en **Data Science** en Henry y con diplomatura en **Business Intelligence** en UTN e-Learning.
 
-Mi esencia está en el **análisis y la comunicación**: transformar datos crudos en decisiones concretas y medibles. Actualmente trabajando en **[Elitian](https://github.com/ElianaInes/Elitian)**, un e-commerce eco-consciente con análisis predictivo, sistemas de recomendación y clusterización de clientes integrados.
+Mi esencia está en el **análisis y la comunicación**: transformar datos crudos en decisiones concretas y medibles. Actualmente desarrollando **[Elitian](https://github.com/moreiracristian/ElitianWeb)**, un e-commerce eco-consciente con análisis predictivo, sistemas de recomendación y clusterización de clientes integrados.
 
 > *"Pasar de vagas opiniones a decisiones fundamentadas — desde datos a insights que mejoran procesos."*
 
-- 🎯 **Intereses**: Automatización · SQL · Machine Learning · Big Data · Sostenibilidad
-- 🌱 **Aprendiendo**: LLMs · Análisis predictivo avanzado · MLOps
+- 🎯 **Intereses**: Análisis de datos · Data Science · Data Engineering · Automatización · Inteligencia Artificial · Excel Avanzado · Business Intelligence · Cine · Sostenibilidad
+- 🌱 **Aprendiendo**: Creo que aprender es un ciclo continuo: primero **analizar** — entender el problema, los datos, el contexto; luego **desarrollar** — construir con propósito, iterar, mejorar. No se aprende para acumular conocimiento sino para transformarlo en valor real. Cada proyecto es un nuevo ciclo. Actualmente profundizando en **LLMs**, **MLOps** y análisis predictivo avanzado.
 - 📍 **Argentina**
 
 ---
@@ -28,6 +28,9 @@ Mi esencia está en el **análisis y la comunicación**: transformar datos crudo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Machine Learning & IA**
@@ -38,20 +41,30 @@ Mi esencia está en el **análisis y la comunicación**: transformar datos crudo
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-026C00?style=for-the-badge&logo=lightgbm&logoColor=white)
+![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-FF8C00?style=for-the-badge&logo=python&logoColor=white)
 
 **Datos & Visualización**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**APIs & Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Big Data & Cloud**
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -70,7 +83,7 @@ Mi esencia está en el **análisis y la comunicación**: transformar datos crudo
 
 ### 🌿 ARCOPE — Sostenibilidad y Rentabilidad para Uber NYC
 
-[![ARCOPE](https://github-readme-stats.vercel.app/api/pin/?username=David-I-X&repo=ETL-P&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/David-I-X/ETL-P)
+[![ARCOPE](https://github-readme-stats.vercel.app/api/pin/?username=David-I-X&repo=ETL-P&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/moreiracristian/Henry-Arcope-PF)
 
 Análisis del impacto ambiental de la operación de Uber en Nueva York. Identifica oportunidades donde adoptar vehículos eléctricos podría **reducir los costos operativos hasta un 40%**. Incluye dashboard interactivo deployado en Streamlit.
 
@@ -112,9 +125,9 @@ Clasificador NLP de reseñas de películas. Aborda el reto de datasets desbalanc
 
 ### 🛒 Elitian — E-commerce Ecoconsciente
 
-[![Elitian](https://github-readme-stats.vercel.app/api/pin/?username=ElianaInes&repo=Elitian&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/ElianaInes/Elitian)
+[![Elitian](https://github-readme-stats.vercel.app/api/pin/?username=ElianaInes&repo=ElitianWeb&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/moreiracristian/ElitianWeb)
 
-Tienda online de productos naturales y ecológicos con blog temático integrado. Proyecto full-stack que conecta emprendedores locales con consumidores conscientes.
+Desarrollé un sitio e-commerce de productos naturales y ecológicos con blog temático integrado. Conecta emprendedores locales con consumidores conscientes, fomentando el consumo responsable y el cuidado del planeta.
 
 `Python` `HTML` `CSS` `JavaScript`
 
@@ -143,4 +156,5 @@ Tienda online de productos naturales y ecológicos con blog temático integrado.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00,2C2C2C&height=120&section=footer" width="100%"/>
+<!--  -->
